@@ -1,0 +1,10 @@
+## AUTH
+GET http://localhost:3001/auth/login
+
+GET http://localhost:3001/auth/register
+
+GET http://localhost:3001/auth/verifytoken
+
+
+## PRODUCT
+GET http://localhost:3001/product/
